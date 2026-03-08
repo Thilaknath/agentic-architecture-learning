@@ -1,0 +1,19 @@
+# SAP AI Core SDK
+generative-ai-hub-sdk[langchain]
+aioboto3  # transitive dep missing from gen-ai-hub
+
+# LangGraph
+langgraph
+
+# LangSmith tracing
+langsmith
+
+# Search tools
+tavily-python
+openai
+
+# Gemini judge
+google-genai
+
+# Utilities
+python-dotenv
